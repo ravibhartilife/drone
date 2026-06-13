@@ -20,3 +20,7 @@ However, I am not limiting myself to just this. In the coming years, I plan to i
 By the way, I am currently in my 2nd semester of college.
 (Date: 30 January 2026).
 ###########################################################################################################################
+
+**Date: 9 June 2026**
+
+I am upgrading the drone with an **ESP32-S3 N16R8**. This will be the final hardware version of the drone. After completing this upgrade, I plan to integrate **AI** into the project.
